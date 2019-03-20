@@ -78,6 +78,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/androidTest/java/com/gm/theme/ExampleInstrumentedTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/gmtheme/src/main/AndroidManifest.xml">
           <value>
             <set />
@@ -594,6 +599,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/gmtheme/src/main/res/xml/pref_gm.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/test/java/com/gm/theme/ExampleUnitTest.java">
           <value>
             <set />
           </value>
