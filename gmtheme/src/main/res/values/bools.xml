@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <bool name="is_default_theme_light">true</bool>
+  <bool name="should_tint_status_bar">true</bool>
+  <bool name="should_tint_nav_bar">false</bool>
+</resources>

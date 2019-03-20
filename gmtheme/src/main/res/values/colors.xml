@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+  <!--
+  Use the following default colors for light|dark so the library user is not required to provide these.
+  Each default color should be different so the library knows which color to replace.
+  -->
+  <eat-comment/>
+  <color name="gm_default_primary_dark">#09000000</color>
+  <color name="gm_default_primary_light">#08000000</color>
+  <color name="gm_default_accent_dark">#05000000</color>
+  <color name="gm_default_accent_light">#03000000</color>
+
+  <!-- Primary colors -->
+  <eat-comment/>
+  <color name="gm_primary_reference">#FFC2185B</color>
+  <color name="gm_primary_light_reference">@color/gm_default_primary_light</color>
+  <color name="gm_primary_dark_reference">@color/gm_default_primary_dark</color>
+
+  <!-- Accent colors -->
+  <eat-comment/>
+  <color name="gm_accent_reference">#FF1976D2</color>
+  <color name="gm_accent_light_reference">@color/gm_default_accent_light</color>
+  <color name="gm_accent_dark_reference">@color/gm_default_accent_dark</color>
+
+  <!-- Background colors -->
+  <eat-comment/>
+  <color name="gm_background_dark">#FF303030</color>
+  <color name="gm_background_dark_darker">#FF1E1E1E</color>
+  <color name="gm_background_dark_lighter">#FF2D2D2D</color>
+  <color name="gm_background_light">#FFFAFAFA</color>
+  <color name="gm_background_light_darker">#FFC0C0C0</color>
+  <color name="gm_background_light_lighter">#FFF8F8F8</color>
+  <color name="background_material_dark" tools:override="true">@color/gm_background_dark</color>
+  <color name="background_material_light" tools:override="true">@color/gm_background_light</color>
+
+  <!-- Navigation bar color -->
+  <eat-comment/>
+  <color name="gm_navigation_bar_reference">@color/gm_primary_reference</color>
+
+  <!-- Menu colors -->
+  <eat-comment/>
+  <color name="gm_menu_icon_light">#FFFFFFFF</color>
+  <color name="gm_menu_icon_dark">#DE000000</color>
+  <color name="gm_sub_menu_icon_light">#B3FFFFFF</color>
+  <color name="gm_sub_menu_icon_dark">#8A000000</color>
+
+  <!-- Button selector colors -->
+  <eat-comment/>
+  <color name="gm_selector_default">#FF9E9E9E</color>
+
+  <!-- Background selector colors -->
+  <eat-comment/>
+  <color name="gm_disabled_selected_reference">#FF757575</color>
+
+  <!-- Theme picker -->
+  <color name="gm_theme_title_bg_color">#CC37474F</color>
+  <color name="gm_theme_selected_color">#FF689F38</color>
+
+</resources>

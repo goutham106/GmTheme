@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" tools:ignore="NewApi">
+
+  <style name="Theme.Gm.Dark" parent="@style/Theme.MaterialComponents">
+    <item name="actionBarPopupTheme">@style/ThemeOverlay.MaterialComponents.Dark</item>
+    <item name="actionBarTheme">@style/ThemeOverlay.MaterialComponents.Dark.ActionBar</item>
+    <item name="actionModeBackground">@color/gm_primary</item>
+    <item name="actionOverflowMenuStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="android:itemBackground">@drawable/gm_bg_button_primary</item>
+    <item name="android:listPopupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:popupMenuStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:popupTheme">@style/ThemeOverlay.MaterialComponents.Dark</item>
+    <item name="android:popupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:windowBackground">@drawable/gm_bg_dark</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="backgroundColor">@color/gm_bg_dark</item>
+    <item name="backgroundColorDark">@color/gm_bg_dark_darker</item>
+    <item name="backgroundColorLight">@color/gm_bg_dark_lighter</item>
+    <item name="buttonBarButtonStyle">@style/Gm.AlertDialogButtonStyle</item>
+    <item name="buttonStyle">@style/Gm.ColoredButton</item>
+    <item name="colorAccent">@color/gm_accent</item>
+    <item name="colorControlActivated">?attr/colorAccent</item>
+    <item name="colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="colorButtonNormal">@color/gm_accent</item>
+    <item name="colorPrimary">@color/gm_primary</item>
+    <item name="colorPrimaryDark">@color/gm_primary_dark</item>
+    <item name="listPopupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="popupMenuStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="popupTheme">@style/ThemeOverlay.MaterialComponents.Dark</item>
+    <item name="popupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="windowActionModeOverlay">true</item>
+    <item name="menuIconColor">@color/gm_menu_icon_light</item>
+    <item name="subMenuIconColor">@color/gm_sub_menu_icon_light</item>
+  </style>
+
+  <style name="Theme.Gm.Dark.LightActionBar" parent="@style/Theme.MaterialComponents">
+    <item name="actionBarTheme">@style/ThemeOverlay.MaterialComponents.Light</item>
+    <item name="actionModeBackground">@color/gm_primary</item>
+    <item name="actionOverflowMenuStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="android:itemBackground">@drawable/gm_bg_button_primary</item>
+    <item name="android:listPopupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:popupMenuStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:popupTheme">@style/ThemeOverlay.MaterialComponents.Dark</item>
+    <item name="android:popupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="android:windowBackground">@drawable/gm_bg_dark</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="backgroundColor">@color/gm_bg_dark</item>
+    <item name="backgroundColorDark">@color/gm_bg_dark_darker</item>
+    <item name="backgroundColorLight">@color/gm_bg_dark_lighter</item>
+    <item name="buttonBarButtonStyle">@style/Gm.AlertDialogButtonStyle</item>
+    <item name="buttonStyle">@style/Gm.ColoredButton</item>
+    <item name="colorAccent">@color/gm_accent</item>
+    <item name="colorControlActivated">?attr/colorAccent</item>
+    <item name="colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="colorButtonNormal">@color/gm_accent</item>
+    <item name="colorPrimary">@color/gm_primary</item>
+    <item name="colorPrimaryDark">@color/gm_primary_dark</item>
+    <item name="listPopupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="popupMenuStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="popupTheme">@style/ThemeOverlay.MaterialComponents.Dark</item>
+    <item name="popupWindowStyle">@style/Gm.PopupMenu.Dark</item>
+    <item name="windowActionModeOverlay">true</item>
+    <item name="menuIconColor">@color/gm_menu_icon_dark</item>
+    <item name="subMenuIconColor">@color/gm_sub_menu_icon_dark</item>
+  </style>
+
+  <style name="Theme.Gm.Light" parent="@style/Theme.MaterialComponents.Light">
+    <item name="actionBarTheme">@style/ThemeOverlay.MaterialComponents.ActionBar</item>
+    <item name="actionModeBackground">@color/gm_primary</item>
+    <item name="actionOverflowMenuStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="android:itemBackground">@drawable/gm_bg_button_primary</item>
+    <item name="android:listPopupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:popupMenuStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:popupTheme">@style/ThemeOverlay.MaterialComponents.Light</item>
+    <item name="android:popupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:windowBackground">@drawable/gm_bg_light</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="backgroundColor">@color/gm_bg_light</item>
+    <item name="backgroundColorDark">@color/gm_bg_light_darker</item>
+    <item name="backgroundColorLight">@color/gm_bg_light_lighter</item>
+    <item name="buttonBarButtonStyle">@style/Gm.AlertDialogButtonStyle</item>
+    <item name="buttonStyle">@style/Gm.ColoredButton</item>
+    <item name="colorAccent">@color/gm_accent</item>
+    <item name="colorControlActivated">?attr/colorAccent</item>
+    <item name="colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="colorButtonNormal">@color/gm_accent</item>
+    <item name="colorPrimary">@color/gm_primary</item>
+    <item name="colorPrimaryDark">@color/gm_primary_dark</item>
+    <item name="listPopupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="popupMenuStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="popupTheme">@style/ThemeOverlay.MaterialComponents.Light</item>
+    <item name="popupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="windowActionModeOverlay">true</item>
+    <item name="menuIconColor">@color/gm_menu_icon_dark</item>
+    <item name="subMenuIconColor">@color/gm_sub_menu_icon_dark</item>
+  </style>
+
+  <style name="Theme.Gm.Light.DarkActionBar" parent="@style/Theme.MaterialComponents.Light.DarkActionBar">
+    <item name="actionBarTheme">@style/ThemeOverlay.MaterialComponents.Dark.ActionBar</item>
+    <item name="actionModeBackground">@color/gm_primary</item>
+    <item name="actionOverflowMenuStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="android:itemBackground">@drawable/gm_bg_button_primary</item>
+    <item name="android:listPopupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:popupMenuStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:popupTheme">@style/ThemeOverlay.MaterialComponents.Light</item>
+    <item name="android:popupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="android:windowBackground">@drawable/gm_bg_light</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="backgroundColor">@color/gm_bg_light</item>
+    <item name="backgroundColorDark">@color/gm_bg_light_darker</item>
+    <item name="backgroundColorLight">@color/gm_bg_light_lighter</item>
+    <item name="buttonBarButtonStyle">@style/Gm.AlertDialogButtonStyle</item>
+    <item name="buttonStyle">@style/Gm.ColoredButton</item>
+    <item name="colorAccent">@color/gm_accent</item>
+    <item name="colorControlActivated">?attr/colorAccent</item>
+    <item name="colorBackgroundFloating">?backgroundColorLight</item>
+    <item name="colorButtonNormal">@color/gm_accent</item>
+    <item name="colorPrimary">@color/gm_primary</item>
+    <item name="colorPrimaryDark">@color/gm_primary_dark</item>
+    <item name="listPopupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="popupMenuStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="popupTheme">@style/ThemeOverlay.MaterialComponents.Light</item>
+    <item name="popupWindowStyle">@style/Gm.PopupMenu.Light</item>
+    <item name="windowActionModeOverlay">true</item>
+    <item name="menuIconColor">@color/gm_menu_icon_light</item>
+    <item name="subMenuIconColor">@color/gm_sub_menu_icon_light</item>
+  </style>
+
+  <style name="Theme.Gm.Dark.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+
+  <style name="Theme.Gm.Light.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+
+  <!-- ActionBar.NoActionBar is needed for the actionBarTheme attribute -->
+  <eat-comment/>
+
+  <style name="Theme.Gm.Dark.LightActionBar.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+
+  <style name="Theme.Gm.Light.DarkActionBar.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+
+</resources>

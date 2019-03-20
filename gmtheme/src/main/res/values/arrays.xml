@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+  <color name="gm_background_material_light">#FFFAFAFA</color>
+  <color name="gm_background_material_dark">#FF303030</color>
+  <color name="gm_background_black">#FF000000</color>
+  <color name="gm_background_dark_green">#FF182628</color>
+  <color name="gm_background_dark_blue">#FF21263A</color>
+
+  <integer-array name="gm_background_color_presets" tools:ignore="PrivateResource">
+    <item>@color/gm_background_material_light</item>
+    <item>@color/gm_background_material_dark</item>
+    <item>@color/gm_background_black</item>
+    <item>@color/gm_background_dark_green</item>
+    <item>@color/gm_background_dark_blue</item>
+  </integer-array>
+
+</resources>

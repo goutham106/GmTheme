@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cyanea/library/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Cyanea/library/src/main/java/com/jaredrummler/cyanea/CyaneaResources.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../GmArcTemplate/core/src/main/java/com/gm/core/widget/HorizontalSwipeRefreshLayout.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/gm/gmtheme/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/bintray.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/assets/themes/gm_themes.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/Extensions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/GmThemes.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/Theme.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/ThemeApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/ThemeResources.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/BaseThemeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/CyaneaFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/CyaneaFragmentActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/CyaneaPreferenceActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/ThemeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/ThemeAppCompatActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/ThemeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/ThemeFragmentActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/app/ThemePreferenceActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/BaseAppCompatDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/CyaneaDelegateImplV19.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/CyaneaDelegateImplV21.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/CyaneaDelegateImplV23.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/CyaneaDelegateImplV24.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/CyaneaDelegateImplV26.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/ThemeDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/ThemeDelegateImplBase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/ThemeDelegateImplV19.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/ThemeDelegateImplV21.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/ThemeDelegateImplV23.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/ThemeDelegateImplV24.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/delegate/ThemeDelegateImplV26.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/CyaneaContextWrapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/CyaneaInflationDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/CyaneaLayoutInflater.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/CyaneaViewFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/CyaneaViewProcessor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/ThemaContextWrapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/ThemeContextWrapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/ThemeInflationDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/ThemeLayoutInflater.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/ThemeViewFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/ThemeViewProcessor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/decor/AttrsDecorator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/decor/CyaneaDecorator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/decor/FontDecorator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/inflator/decor/ThemeDecorator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/CyaneaSettingsActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/CyaneaSettingsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/CyaneaThemePickerFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/GmTheme.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/GmThemePickerActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/GmThemePickerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/GmThemePickerFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/ThemeSettingsActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/prefs/ThemeSettingsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/tinting/EdgeEffectTint.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/tinting/MenuTint.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/tinting/SystemBarTint.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/tinting/ThemeTinter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/tinting/WidgetTint.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/utils/ColorUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/java/com/gm/theme/utils/Reflection.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res-public/values/public.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_accent_dark.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_accent_light.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_bg_dark_darker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_bg_dark_lighter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_bg_light.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_bg_light_darker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_bg_light_lighter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_primary_dark.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/cyanea_primary_light.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/gm_accent.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/gm_accent_dark.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/gm_bg_dark.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/color/gm_bg_dark_lighter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable-v21/cyanea_bg_button_accent.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable-v21/cyanea_bg_button_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_accent.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_button_accent.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_button_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_dark.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_dark_darker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_dark_lighter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_light.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_light_darker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_light_lighter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_popup_dark.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_bg_popup_light.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/drawable/cyanea_primary_dark.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/layout/cyanea_theme_picker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/layout/gm_item_theme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/layout/gm_theme_picker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values-land/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/arrays.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/attrs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/bools.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gmtheme/src/main/res/xml/pref_gm.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../custom-snackbar-sample/app/src/main/java/com/example/customsnackbar/chef/ChefSnackbar.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../custom-snackbar-sample/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.gm.theme">
+    <application>
+        <activity android:name=".prefs.GmThemePickerActivity"
+                  android:label="@string/label_theme_picker"
+                  android:theme="@style/Theme.Gm.Light.DarkActionBar"/>
+        <activity android:name=".prefs.ThemeSettingsActivity"
+                  android:theme="@style/Theme.Gm.Light.DarkActionBar"/>
+    </application>
+</manifest>
